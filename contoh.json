@@ -1,11 +1,13 @@
 {
-  "age": 30,
+  "id": "1",
+  "name": "Eko",
+  "hobbies": [
+    "Coding",
+    "Reading"
+  ],
   "address": {
-    "street": "Jalan belum ada",
+    "street": "Jalan belum jadi",
     "city": "Jakarta",
     "country": "Indonesia"
-  },
-  "firstName": "Budi",
-  "lastName": "Nugraha",
-  "married": true
+  }
 }
